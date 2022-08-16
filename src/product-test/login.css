@@ -1,0 +1,23 @@
+*{
+    background-color: chocolate;
+    color:antiquewhite;
+}
+input{
+    align-items: center;
+    margin-top: 10%;
+    margin-bottom: 1%;
+}
+button{
+    color:white;
+    background-color: rgb(205, 237, 100);
+}
+button.hover{
+    color:black;
+    background-color: aqua;
+}
+.container{
+    border: 10px wheat solid;
+    margin-left: 30%;
+    margin-right: 30%;
+    background-color: azure;
+}
